@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✈️ Dream Travel Planner
 
 <div align="center">
@@ -295,3 +296,7 @@ Project: https://github.com/DishaAgarwalla/Dream-Travel-Planner
 ⭐ **Star this repo if you find it useful!**
 
 © 2026 Dream Travel Planner
+=======
+# Dream-Travel-Planner
+Dream Travel Planner - A responsive frontend travel planning website with destination guides, trip planner, and budget tracker.
+>>>>>>> 5b27fed222fda2c9b647d75368aa719d51d0f291
