@@ -85,6 +85,10 @@ Dream Travel Planner is a frontend web application that helps users explore trav
 This project was built as part of learning and practicing frontend web development and improving UI/UX design skills.
 
 ---
+👨‍💻 Author
+Disha Agarwalla
+
+
 
 ## 📬 Contact
 
