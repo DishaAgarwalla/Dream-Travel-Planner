@@ -1,4 +1,4 @@
-# ✈️ Dream Travel Planner
+# ✈️ Dream Travel Planne
 
 🚀 A responsive travel planning web app with budget tracking and destination exploration features.
 
