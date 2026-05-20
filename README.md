@@ -1,10 +1,17 @@
 # ✈️ Dream Travel Planner
 
+<p align="center">
+  <a href="https://dream-travel-planner.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Website-blue?style=for-the-badge">
+  </a>
+</p>
+
 🚀 A responsive travel planning web app with budget tracking and destination exploration features.
 
 Dream Travel Planner is a frontend web application that helps users explore travel destinations, plan trips, and manage travel budgets — all in one place.
 
 ---
+
 
 ## 🚀 Features
 
